@@ -1,0 +1,3 @@
+O código utiliza uma estrutura de lista encadeada para armazenar as adjacências de cada vértice. Além disso, a função `ordenacao_topologica` 
+utiliza uma fila para armazenar os vértices com grau de entrada 0 e processá-los na ordem correta. O usuário deve informar a quantidade de
+vértices pelo teclado, seguido das arestas no formato `origem destino`. O resultado da ordenação topológica é impresso na tela. 
